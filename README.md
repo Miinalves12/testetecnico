@@ -1,4 +1,4 @@
-Este repositório contém a solução para o conjunto de problemas propostos como parte do processo seletivo para a vaga na Nomus. Os problemas foram abordados utilizando a linguagem de programação Python.
+Este repositório contém a solução para o conjunto de problemas propostos como parte do processo seletivo para a vaga na target. Os problemas foram abordados utilizando a linguagem de programação Python.
 
 Conteúdo:
 
